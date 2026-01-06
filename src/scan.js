@@ -1,0 +1,1 @@
+console.log('This is a new version of scan.js');
